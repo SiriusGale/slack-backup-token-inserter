@@ -11,13 +11,11 @@ ArchiveData: false
 DownloadFiles: false
 <...>
 ```
-
 ### Creating `xoxe` file export token
 1. Go to https://slack.com/services/import
 2. Create any date range export. It's better to choose 7 days to make it fater
 3. Open any `.json` file in `<channel-name>` folder wich contains any attachements
 4. Find (using ctrl+F) your `xoxe` token and save it
-
 ### Running slack-backup-token-inserter
 1. Export any channel using https://github.com/mrmoneyc/slack-exporter and set `config.yaml` variables like above
 2. Clone `main.py`
