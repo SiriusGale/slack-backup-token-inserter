@@ -21,7 +21,7 @@ DownloadFiles: false
 2. Clone `main.py`
 3. Install Python 3
 4. Find the `messages.json` file which you want to update
-5. Run `main.py` using your 'xoxe` token via 
+5. Run `main.py` using your `xoxe` token via 
 ```
 python main.py "?t=xoxe-123-456-789" ./messages.json ./new-messages.json
 ```
