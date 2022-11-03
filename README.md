@@ -19,7 +19,7 @@ DownloadFiles: false
 4. Find (using ctrl+F) your `xoxe` token and save it
 
 ### Running slack-backup-token-inserter
-1. Export any channel using https://github.com/mrmoneyc/slack-exporter and set `config.yaml` variables above
+1. Export any channel using https://github.com/mrmoneyc/slack-exporter and set `config.yaml` variables like above
 2. Clone `main.py`
 3. Install Python 3
 4. Find the `messages.json` file which you want to update
